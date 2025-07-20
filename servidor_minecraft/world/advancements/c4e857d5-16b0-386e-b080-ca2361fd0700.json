@@ -798,8 +798,10 @@
       "minecraft:pillager": "2025-07-17 22:57:55 +0000",
       "minecraft:blaze": "2025-07-19 04:42:15 +0000",
       "minecraft:skeleton": "2025-07-17 20:43:30 +0000",
+      "minecraft:elder_guardian": "2025-07-20 18:01:20 +0000",
       "minecraft:ghast": "2025-07-19 04:32:54 +0000",
       "minecraft:hoglin": "2025-07-19 04:32:20 +0000",
+      "minecraft:guardian": "2025-07-20 18:01:51 +0000",
       "minecraft:spider": "2025-07-17 22:08:35 +0000",
       "minecraft:piglin_brute": "2025-07-19 04:56:58 +0000",
       "minecraft:creeper": "2025-07-17 20:51:32 +0000",
@@ -1010,7 +1012,8 @@
       "bread": "2025-07-17 21:43:25 +0000",
       "golden_apple": "2025-07-20 17:21:54 +0000",
       "cookie": "2025-07-18 00:28:09 +0000",
-      "rotten_flesh": "2025-07-20 17:34:19 +0000"
+      "rotten_flesh": "2025-07-20 17:34:19 +0000",
+      "cooked_salmon": "2025-07-20 17:57:55 +0000"
     },
     "done": false
   },
@@ -6996,6 +6999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-20 18:02:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-20 17:39:22 +0000"
@@ -7020,6 +7029,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-20 17:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-07-20 18:08:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-20 17:39:22 +0000"
@@ -7032,9 +7053,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-20 17:58:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-20 17:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-20 18:08:19 +0000"
     },
     "done": true
   },
@@ -7068,6 +7101,18 @@
     },
     "done": true
   },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2025-07-20 18:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-07-20 18:01:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-20 17:39:22 +0000"
@@ -7092,6 +7137,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-07-20 17:58:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-20 17:39:22 +0000"
@@ -7104,9 +7155,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-20 17:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-20 18:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-20 18:02:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-07-20 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-20 17:58:23 +0000"
     },
     "done": true
   },
