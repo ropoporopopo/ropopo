@@ -7263,27 +7263,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-20 18:56:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-07-20 18:51:45 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_leggings": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-20 18:51:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-07-20 18:56:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
-      "has_smithing_trim_template": "2025-07-20 18:51:45 +0000"
+      "has_item": "2025-07-20 18:56:38 +0000"
     },
     "done": true
   },
