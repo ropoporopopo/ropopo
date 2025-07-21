@@ -6528,5 +6528,23 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-21 17:56:53 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-07-21 17:53:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-21 17:52:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

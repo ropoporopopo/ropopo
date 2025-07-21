@@ -24532,3 +24532,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 17:48:26.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> encontre 2 aldeas una al lado de la otra
 [21Jul2025 17:48:33.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> no hay peo si entro no?
 [21Jul2025 17:48:50.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> no
+[21Jul2025 17:48:52.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> no hay
+[21Jul2025 17:48:54.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Darkiumoun lost connection: Disconnected
+[21Jul2025 17:48:54.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkiumoun left the game
+[21Jul2025 17:48:54.536] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Darkiumoun[c4e857d5-16b0-386e-b080-ca2361fd0700]
+[21Jul2025 17:48:56.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> bello
+[21Jul2025 17:48:59.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> que le paso
+[21Jul2025 17:49:07.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> btw voy al vc en unos minutos
+[21Jul2025 17:49:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> oskers
+[21Jul2025 17:49:19.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> se fue a come
+[21Jul2025 17:51:01.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> mano puedo dormir
+[21Jul2025 17:51:04.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> duerman
+[21Jul2025 17:51:21.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> ya
+[21Jul2025 17:51:28.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> flacido
+[21Jul2025 17:56:57.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> VOY A COMER
+[21Jul2025 17:57:03.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cars0325> ok
+[21Jul2025 17:57:06.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> ya vengo
+[21Jul2025 17:57:08.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Color_duty lost connection: Disconnected
+[21Jul2025 17:57:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty left the game
+[21Jul2025 17:57:08.411] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
+[21Jul2025 17:59:09.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cars0325> ya vuelvo
