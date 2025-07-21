@@ -27326,3 +27326,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 18:37:01.565] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [25, -20], size does not match; expected: 43, got: 37
 [21Jul2025 18:37:01.565] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [25, -20], size does not match; expected: 43, got: 37
 [21Jul2025 18:37:01.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cars0325 moved too quickly! -5.944004375682994,1.0244240882136921,8.227661850477034
+[21Jul2025 18:45:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty fell from a high place
+[21Jul2025 18:45:40.115] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[21Jul2025 18:48:43.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Color_duty lost connection: Disconnected
+[21Jul2025 18:48:43.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty left the game
+[21Jul2025 18:48:43.619] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
+[21Jul2025 18:50:10.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage by Darkiumoun using [Pepito]
+[21Jul2025 18:50:10.960] [Server thread/INFO] [tombstone/]: The player Cars0325 has successfully been saved
+[21Jul2025 18:50:48.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsFiero lost connection: Timed out
+[21Jul2025 18:50:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero left the game
+[21Jul2025 18:50:48.445] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
+[21Jul2025 18:51:02.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsFiero[/100.116.253.86:52988] logged in with entity id 93657 at (-388.07764329714274, 63.0, -3105.699999988079)
+[21Jul2025 18:51:02.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero joined the game
+[21Jul2025 18:51:02.732] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player ItsFiero just logged in with id 7c270057-e6f1-3608-8a0b-298c525fbf27
+[21Jul2025 18:51:02.737] [ForkJoinPool-3-worker-16/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
+[21Jul2025 18:51:02.884] [ForkJoinPool-3-worker-16/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/ItsFiero downloaded
