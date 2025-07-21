@@ -5897,3 +5897,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 14:35:32.452] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -229], size does not match; expected: 43, got: 37
 [21Jul2025 14:35:32.452] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -229], size does not match; expected: 43, got: 37
 [21Jul2025 14:35:32.452] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -229], size does not match; expected: 43, got: 37
+[21Jul2025 16:06:12.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkiumoun[/100.114.154.93:54815] logged in with entity id 16604 at (-673.3051436872431, 101.0, -3394.8258408419365)
+[21Jul2025 16:06:12.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkiumoun joined the game
+[21Jul2025 16:06:12.455] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Darkiumoun just logged in with id c4e857d5-16b0-386e-b080-ca2361fd0700
+[21Jul2025 16:06:12.472] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Darkiumoun[c4e857d5-16b0-386e-b080-ca2361fd0700]
+[21Jul2025 16:06:12.474] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Darkiumoun[c4e857d5-16b0-386e-b080-ca2361fd0700]
