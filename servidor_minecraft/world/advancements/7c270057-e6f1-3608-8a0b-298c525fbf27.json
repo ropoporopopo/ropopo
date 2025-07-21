@@ -6378,6 +6378,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-21 05:16:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
     "criteria": {
       "has_barrel": "2025-07-21 05:16:49 +0000"
@@ -6390,12 +6396,6 @@
     },
     "done": true
   },
-  "create:crushing_wheel": {
-    "criteria": {
-      "0": "2025-07-21 05:56:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/light_blue_postbox": {
     "criteria": {
       "has_barrel": "2025-07-21 05:16:49 +0000"
@@ -6405,12 +6405,6 @@
   "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
     "criteria": {
       "has_barrel": "2025-07-21 05:16:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
-    "criteria": {
-      "has_item": "2025-07-21 05:33:12 +0000"
     },
     "done": true
   },
@@ -6438,12 +6432,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-07-21 05:21:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
     "criteria": {
       "has_barrel": "2025-07-21 05:16:49 +0000"
@@ -6453,24 +6441,6 @@
   "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
     "criteria": {
       "has_barrel": "2025-07-21 05:16:49 +0000"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2025-07-21 05:35:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-07-21 05:16:41 +0000"
-    },
-    "done": true
-  },
-  "create:crafter_lazy_000": {
-    "criteria": {
-      "0": "2025-07-21 05:43:25 +0000"
     },
     "done": true
   },
@@ -6519,6 +6489,42 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
     "criteria": {
       "has_barrel": "2025-07-21 05:16:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-07-21 05:21:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-07-21 05:33:12 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-07-21 05:35:08 +0000"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2025-07-21 05:43:25 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-07-21 05:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-21 17:20:10 +0000"
     },
     "done": true
   },
