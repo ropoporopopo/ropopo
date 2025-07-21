@@ -50,6 +50,7 @@
       "highland": "2025-07-18 01:18:41 +0000",
       "jade_cliffs": "2025-07-18 01:27:23 +0000",
       "clover_patch": "2025-07-18 01:21:59 +0000",
+      "cold_desert": "2025-07-21 03:41:29 +0000",
       "maple_woods": "2025-07-18 02:26:39 +0000",
       "orchard": "2025-07-18 01:05:11 +0000",
       "field": "2025-07-18 03:19:33 +0000",
@@ -66,8 +67,10 @@
       "fir_clearing": "2025-07-18 01:37:40 +0000",
       "pumpkin_patch": "2025-07-18 02:24:58 +0000",
       "prairie": "2025-07-18 00:26:36 +0000",
+      "snowy_coniferous_forest": "2025-07-21 03:40:29 +0000",
       "glowing_grotto": "2025-07-20 03:16:34 +0000",
       "undergrowth": "2025-07-19 04:30:59 +0000",
+      "origin_valley": "2025-07-21 03:39:37 +0000",
       "crag": "2025-07-18 01:28:07 +0000",
       "ominous_woods": "2025-07-18 03:18:10 +0000"
     },
@@ -487,12 +490,14 @@
       "minecraft:old_growth_pine_taiga": "2025-07-18 03:23:50 +0000",
       "minecraft:taiga": "2025-07-18 02:33:31 +0000",
       "minecraft:deep_ocean": "2025-07-20 03:49:48 +0000",
+      "minecraft:frozen_river": "2025-07-21 03:52:01 +0000",
       "minecraft:cherry_grove": "2025-07-19 17:01:14 +0000",
       "minecraft:windswept_hills": "2025-07-19 17:01:26 +0000",
       "minecraft:beach": "2025-07-18 00:46:52 +0000",
       "minecraft:lukewarm_ocean": "2025-07-18 00:54:15 +0000",
       "minecraft:river": "2025-07-18 00:26:23 +0000",
       "minecraft:stony_shore": "2025-07-20 03:37:41 +0000",
+      "minecraft:snowy_plains": "2025-07-21 03:51:57 +0000",
       "minecraft:dripstone_caves": "2025-07-19 21:45:19 +0000",
       "minecraft:jagged_peaks": "2025-07-20 04:29:39 +0000",
       "minecraft:cold_ocean": "2025-07-18 03:11:40 +0000",
@@ -500,6 +505,7 @@
       "minecraft:deep_cold_ocean": "2025-07-18 03:27:43 +0000",
       "minecraft:ocean": "2025-07-18 00:57:13 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-18 02:35:31 +0000",
+      "minecraft:snowy_beach": "2025-07-21 03:40:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-18 00:55:35 +0000",
       "minecraft:frozen_peaks": "2025-07-20 04:28:08 +0000",
       "minecraft:deep_dark": "2025-07-18 01:55:53 +0000",
@@ -965,6 +971,7 @@
       "apple": "2025-07-18 03:34:53 +0000",
       "potato": "2025-07-18 18:00:22 +0000",
       "bread": "2025-07-18 02:15:46 +0000",
+      "golden_apple": "2025-07-21 03:50:33 +0000",
       "suspicious_stew": "2025-07-18 03:24:38 +0000",
       "rotten_flesh": "2025-07-18 18:39:00 +0000",
       "cooked_chicken": "2025-07-20 05:46:52 +0000",
@@ -5690,6 +5697,162 @@
   "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-07-21 02:54:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-21 04:15:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-21 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-21 03:55:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-21 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-21 03:58:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-21 03:58:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-07-21 03:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-21 03:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 03:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-21 03:58:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-21 03:38:55 +0000"
     },
     "done": true
   },
