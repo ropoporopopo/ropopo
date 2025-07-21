@@ -6528,9 +6528,21 @@
     },
     "done": true
   },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-07-21 18:08:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-07-21 17:56:53 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-07-21 18:05:22 +0000"
     },
     "done": true
   },
@@ -6543,6 +6555,12 @@
   "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
     "criteria": {
       "has_item": "2025-07-21 17:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-07-21 18:08:04 +0000"
     },
     "done": true
   },
