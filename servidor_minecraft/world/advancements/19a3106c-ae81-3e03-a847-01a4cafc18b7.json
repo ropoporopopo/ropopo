@@ -970,11 +970,13 @@
       "porkchop": "2025-07-19 05:02:45 +0000",
       "apple": "2025-07-18 03:34:53 +0000",
       "potato": "2025-07-18 18:00:22 +0000",
+      "cooked_cod": "2025-07-21 05:19:28 +0000",
       "bread": "2025-07-18 02:15:46 +0000",
       "golden_apple": "2025-07-21 03:50:33 +0000",
       "suspicious_stew": "2025-07-18 03:24:38 +0000",
       "rotten_flesh": "2025-07-18 18:39:00 +0000",
       "cooked_chicken": "2025-07-20 05:46:52 +0000",
+      "cod": "2025-07-21 05:18:27 +0000",
       "cooked_salmon": "2025-07-19 03:20:47 +0000",
       "carrot": "2025-07-18 03:24:58 +0000"
     },
@@ -5700,51 +5702,33 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-21 03:38:55 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-07-21 03:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-21 03:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 03:54:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-07-21 03:55:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2025-07-21 04:48:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-07-21 04:15:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_leggings": {
-    "criteria": {
-      "has_item": "2025-07-21 04:19:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-21 04:56:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2025-07-21 04:56:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2025-07-21 04:48:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-21 04:03:31 +0000"
     },
     "done": true
   },
@@ -5760,45 +5744,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2025-07-21 04:48:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-21 04:48:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-07-21 03:55:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_boots": {
-    "criteria": {
-      "has_item": "2025-07-21 04:56:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-07-21 04:04:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-21 03:55:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
-    "criteria": {
-      "has_dragonscales_blue": "2025-07-21 04:19:39 +0000"
     },
     "done": true
   },
@@ -5814,51 +5762,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-07-21 03:58:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_boots": {
-    "criteria": {
-      "has_item": "2025-07-21 04:19:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2025-07-21 04:48:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-21 03:55:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-21 03:58:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-21 04:19:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_blue_helmet": {
-    "criteria": {
-      "has_item": "2025-07-21 04:19:39 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-07-21 03:51:10 +0000"
     },
     "done": true
   },
@@ -5880,27 +5786,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_log": "2025-07-21 03:54:37 +0000"
+      "has_ink_sac": "2025-07-21 03:55:52 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_teal_helmet": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "has_item": "2025-07-21 04:56:50 +0000"
+      "killed_fire_dragon": "2025-07-21 03:58:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "securitycraft:recipes/misc/crystal_quartz_item": {
     "criteria": {
-      "has_log": "2025-07-21 03:54:37 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
-    "criteria": {
-      "has_sea_serpent_scales_teal": "2025-07-21 04:56:50 +0000"
+      "has_prismarine_crystals": "2025-07-21 03:58:58 +0000"
     },
     "done": true
   },
@@ -5910,9 +5810,237 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "has_magic_scroll": "2025-07-21 03:38:55 +0000"
+      "killed_fire_dragon": "2025-07-21 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-21 04:04:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-21 04:15:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-07-21 05:41:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 05:52:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 05:52:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-07-21 05:47:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-07-21 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2025-07-21 05:43:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-07-21 05:52:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-21 05:48:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 05:52:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-07-21 05:47:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-07-21 05:17:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 05:52:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-07-21 05:45:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 05:17:41 +0000"
     },
     "done": true
   },
