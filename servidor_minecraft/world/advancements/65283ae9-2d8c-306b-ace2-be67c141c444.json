@@ -4978,15 +4978,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-21 04:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-21 04:13:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-21 04:57:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
       "has_item": "2025-07-21 04:02:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/brown_flag": {
+    "criteria": {
+      "has_brown_flag": "2025-07-21 04:57:21 +0000"
     },
     "done": true
   },
@@ -5089,6 +5107,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-21 04:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-21 04:57:21 +0000"
     },
     "done": true
   },

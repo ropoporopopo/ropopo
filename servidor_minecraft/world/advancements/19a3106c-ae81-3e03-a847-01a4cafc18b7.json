@@ -5706,6 +5706,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-07-21 04:15:51 +0000"
@@ -5715,6 +5721,24 @@
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
     },
     "done": true
   },
@@ -5736,9 +5760,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-07-21 03:55:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
     },
     "done": true
   },
@@ -5781,6 +5823,12 @@
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-07-21 04:19:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 04:48:58 +0000"
     },
     "done": true
   },
@@ -5838,9 +5886,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 04:56:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-21 03:54:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-07-21 04:56:50 +0000"
     },
     "done": true
   },
