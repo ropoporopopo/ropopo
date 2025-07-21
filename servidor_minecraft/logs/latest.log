@@ -33231,3 +33231,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 19:18:10.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero left the game
 [21Jul2025 19:18:10.946] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
 [21Jul2025 19:18:34.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[21Jul2025 19:23:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkiumoun has made the advancement [Magic Impregnation]
+[21Jul2025 19:26:57.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsFiero[/100.116.253.86:54822] logged in with entity id 101772 at (-389.27710616111176, 67.0, -3131.874604227224)
+[21Jul2025 19:26:57.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero joined the game
+[21Jul2025 19:26:57.420] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player ItsFiero just logged in with id 7c270057-e6f1-3608-8a0b-298c525fbf27
+[21Jul2025 19:26:57.421] [ForkJoinPool-3-worker-22/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
+[21Jul2025 19:26:57.586] [ForkJoinPool-3-worker-22/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/ItsFiero downloaded
+[21Jul2025 19:28:42.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsFiero lost connection: Timed out
+[21Jul2025 19:28:42.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero left the game
+[21Jul2025 19:28:42.553] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
+[21Jul2025 19:32:04.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkiumoun has made the advancement [Surge Protector]
