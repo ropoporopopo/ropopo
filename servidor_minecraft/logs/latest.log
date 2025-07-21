@@ -25063,3 +25063,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 18:19:29.673] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Color_duty just logged in with id 65283ae9-2d8c-306b-ace2-be67c141c444
 [21Jul2025 18:19:29.674] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
 [21Jul2025 18:19:30.392] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Color_duty
+[21Jul2025 18:22:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> lol
+[21Jul2025 18:23:33.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 18:23:34.596] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 18:23:35.296] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 18:23:35.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty fell from a high place
+[21Jul2025 18:23:35.368] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[21Jul2025 18:24:26.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Darkiumoun[/100.114.154.93:56916] logged in with entity id 76938 at (1821.784774839123, 92.0, -4053.512499988079)
+[21Jul2025 18:24:26.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkiumoun joined the game
+[21Jul2025 18:24:26.454] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Darkiumoun just logged in with id c4e857d5-16b0-386e-b080-ca2361fd0700
+[21Jul2025 18:24:26.461] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Darkiumoun[c4e857d5-16b0-386e-b080-ca2361fd0700]
+[21Jul2025 18:24:26.463] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Darkiumoun[c4e857d5-16b0-386e-b080-ca2361fd0700]
+[21Jul2025 18:25:24.804] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2025 18:25:37.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/75980, l='ServerLevel[world]', x=-4814.15, y=116.00, z=-8004.13] died, message: 'Villager was slain by Husk'
+[21Jul2025 18:26:11.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/72118, l='ServerLevel[world]', x=-220.06, y=90.00, z=-3229.98] died, message: 'Villager hit the ground too hard'
+[21Jul2025 18:26:13.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsFiero lost connection: Timed out
+[21Jul2025 18:26:13.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero left the game
+[21Jul2025 18:26:13.813] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
+[21Jul2025 18:26:27.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsFiero[/100.116.253.86:51882] logged in with entity id 79433 at (-383.9037843156267, 63.0, -3098.851765466535)
+[21Jul2025 18:26:27.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero joined the game
+[21Jul2025 18:26:27.437] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player ItsFiero just logged in with id 7c270057-e6f1-3608-8a0b-298c525fbf27
+[21Jul2025 18:26:27.439] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
+[21Jul2025 18:26:27.586] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/ItsFiero downloaded
+[21Jul2025 18:26:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Darkiumoun has made the advancement [Not Even Double-Sided]
+[21Jul2025 18:26:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> aystone
+[21Jul2025 18:26:54.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
+[21Jul2025 18:26:56.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> aaaaa
+[21Jul2025 18:26:59.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> nnnnn
+[21Jul2025 18:27:05.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> ni
+[21Jul2025 18:27:10.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> g
+[21Jul2025 18:27:21.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> aystone
+[21Jul2025 18:27:27.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
+[21Jul2025 18:27:30.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Color_duty lost connection: Disconnected
+[21Jul2025 18:27:30.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty left the game
+[21Jul2025 18:27:30.323] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
+[21Jul2025 18:27:37.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Color_duty[/100.116.43.53:64902] logged in with entity id 80094 at (-4596.130813308251, 87.0, -8029.673467668566)
+[21Jul2025 18:27:37.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty joined the game
+[21Jul2025 18:27:37.384] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Color_duty just logged in with id 65283ae9-2d8c-306b-ace2-be67c141c444
+[21Jul2025 18:27:37.386] [ForkJoinPool-3-worker-14/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
+[21Jul2025 18:27:37.901] [ForkJoinPool-3-worker-14/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Color_duty
+[21Jul2025 18:27:43.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> ano
+[21Jul2025 18:27:47.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> el server te saco de la emocion
+[21Jul2025 18:27:49.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> q paso
+[21Jul2025 18:27:59.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> ano no puedo escribir
+[21Jul2025 18:28:05.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
+[21Jul2025 18:28:07.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> como asi
+[21Jul2025 18:28:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
+[21Jul2025 18:28:11.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> ver
+[21Jul2025 18:28:12.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
+[21Jul2025 18:28:16.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
+[21Jul2025 18:28:18.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
+[21Jul2025 18:28:42.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> ame voy slir
+[21Jul2025 18:28:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> que
+[21Jul2025 18:28:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Color_duty> a
