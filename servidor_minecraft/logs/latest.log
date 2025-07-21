@@ -5814,3 +5814,277 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 21:35:02.634] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -232], size does not match; expected: 43, got: 37
 [21Jul2025 21:35:02.634] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -232], size does not match; expected: 43, got: 37
 [21Jul2025 21:35:02.634] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -232], size does not match; expected: 43, got: 37
+[21Jul2025 21:36:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 has reached the goal [Great minds think alike]
+[21Jul2025 21:40:21.234] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.234] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.234] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.234] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.235] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.236] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.236] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.236] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.237] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.238] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.238] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.238] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.239] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.240] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.240] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.241] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.241] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.241] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.241] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.242] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.242] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.243] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.243] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.244] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.245] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.245] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.245] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.245] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -231], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.258] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.259] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.259] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.259] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.260] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.260] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.260] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.260] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.262] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.262] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.262] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.262] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.263] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.263] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.263] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.263] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.264] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.264] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.264] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.265] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.266] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.266] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.266] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.266] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.267] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.267] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.267] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.267] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.268] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.268] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.268] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.268] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -230], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.278] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.278] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.278] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.278] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.279] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.279] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.279] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.280] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.281] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.281] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.281] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.281] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.301] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.301] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.301] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.301] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.302] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.302] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.302] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.303] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.303] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.304] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.304] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.304] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.305] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.305] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.305] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:40:21.305] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:41:21.270] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[21Jul2025 21:42:31.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 130202ms or 2604 ticks behind
+[21Jul2025 21:42:31.470] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21Jul2025 21:42:32.328] [Server Watchdog/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: Could not initialize class oshi.SystemInfo
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NoClassDefFoundError: com/sun/jna/Platform [in thread "main"]
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23187!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[21Jul2025 21:42:32.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cars0325 lost connection: Disconnected
+[21Jul2025 21:42:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 left the game
+[21Jul2025 21:42:32.354] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Cars0325[cdee860c-14b2-399b-9434-7a30a3a1578b]
+[21Jul2025 21:42:32.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Color_duty lost connection: Disconnected
+[21Jul2025 21:42:32.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty left the game
+[21Jul2025 21:42:32.373] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]
+[21Jul2025 21:42:32.386] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d01ad1cb-1b8e-4832-a4a4-1abecd37bab1
+[21Jul2025 21:42:32.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elCebollita3797 lost connection: Disconnected
+[21Jul2025 21:42:32.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 left the game
+[21Jul2025 21:42:32.391] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elCebollita3797[fa0905fc-a62a-3107-a593-36ca7c564a45]
+[21Jul2025 21:42:32.411] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ae7e5344-ad76-45e1-a06d-2f2eea0827b4
+[21Jul2025 21:42:32.412] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/ropopo/servidor_minecraft/./crash-reports/crash-2025-07-21_21.42.32-server.txt
+[21Jul2025 21:42:32.447] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@774e399c[id=<null>,name=Cars0325,properties={},legacy=false] (/100.123.215.4:56983) lost connection: Disconnected
+[21Jul2025 21:42:32.467] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.467] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.467] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.468] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -229], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.482] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.482] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.482] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.482] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.484] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.484] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.484] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.484] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.485] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.486] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.486] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.486] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.487] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.488] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.488] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.488] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.489] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.490] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.490] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.490] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.491] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.492] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.492] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.492] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.493] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.494] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.494] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.494] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.495] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.495] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.495] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.496] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -228], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jul2025 21:42:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jul2025 21:42:32.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jul2025 21:42:32.853] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.853] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.853] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.853] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.854] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.855] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.855] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.855] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.858] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.858] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.858] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.858] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.860] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.860] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.861] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.862] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.865] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.865] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.866] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.866] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.871] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.871] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.871] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.873] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.876] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.876] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.876] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.877] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.879] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.880] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.880] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.880] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -227], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.940] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.941] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.941] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.941] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [68, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.944] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.945] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.946] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.948] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [69, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.949] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.949] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.949] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.950] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [70, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.953] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.953] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.954] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.955] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [71, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.957] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.957] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.957] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.958] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [72, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.960] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.961] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.962] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.963] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [73, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.966] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.966] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.966] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.966] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [74, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.968] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.968] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.968] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:32.968] [Server thread/WARN] [net.minecraft.world.level.levelgen.Heightmap/]: Ignoring heightmap data for chunk [75, -226], size does not match; expected: 43, got: 37
+[21Jul2025 21:42:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jul2025 21:42:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[21Jul2025 21:42:33.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jul2025 21:42:33.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[21Jul2025 21:42:33.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[21Jul2025 21:42:33.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[21Jul2025 21:42:33.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[21Jul2025 21:42:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[21Jul2025 21:42:33.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[21Jul2025 21:42:33.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jul2025 21:42:33.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[21Jul2025 21:42:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[21Jul2025 21:42:33.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[21Jul2025 21:42:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[21Jul2025 21:42:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[21Jul2025 21:42:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jul2025 21:42:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[21Jul2025 21:42:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[21Jul2025 21:42:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[21Jul2025 21:42:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[21Jul2025 21:42:33.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jul2025 21:42:33.781] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Jul2025 21:42:33.782] [Server thread/INFO] [Framework/]: Finished unloading server configs

@@ -5328,6 +5328,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-21 21:36:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-21 21:25:01 +0000"
