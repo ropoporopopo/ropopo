@@ -5310,5 +5310,11 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-07-21 21:16:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
