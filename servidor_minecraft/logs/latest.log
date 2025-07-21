@@ -33132,3 +33132,53 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 19:00:23.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero left the game
 [21Jul2025 19:00:23.697] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
 [21Jul2025 19:01:18.192] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c044333[id=<null>,name=ItsFiero,properties={},legacy=false] (/100.116.253.86:53498) lost connection: Disconnected
+[21Jul2025 19:02:42.392] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56d299cb[id=<null>,name=ItsFiero,properties={},legacy=false] (/100.116.253.86:53566) lost connection: Disconnected
+[21Jul2025 19:03:17.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsFiero[/100.116.253.86:53704] logged in with entity id 97598 at (-388.07764329714274, 63.0, -3105.699999988079)
+[21Jul2025 19:03:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero joined the game
+[21Jul2025 19:03:17.415] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player ItsFiero just logged in with id 7c270057-e6f1-3608-8a0b-298c525fbf27
+[21Jul2025 19:03:17.418] [ForkJoinPool-3-worker-21/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player ItsFiero[7c270057-e6f1-3608-8a0b-298c525fbf27]
+[21Jul2025 19:03:17.506] [ForkJoinPool-3-worker-21/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/ItsFiero downloaded
+[21Jul2025 19:03:59.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsFiero has reached the goal [Fortuitous Militia]
+[21Jul2025 19:06:10.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/96857, l='ServerLevel[world]', x=-220.17, y=89.00, z=-3228.94] died, message: 'Villager hit the ground too hard'
+[21Jul2025 19:08:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> 1 cora
+[21Jul2025 19:08:20.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> how
+[21Jul2025 19:08:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> hace 40 de daño
+[21Jul2025 19:08:25.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> tengo full prot IV
+[21Jul2025 19:08:32.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> igual
+[21Jul2025 19:08:37.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> no deberia hacer 1 solo cora
+[21Jul2025 19:08:38.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> wth
+[21Jul2025 19:08:50.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> mira
+[21Jul2025 19:08:53.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> te doy mi armadura
+[21Jul2025 19:08:55.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> dame la escopeta
+[21Jul2025 19:08:55.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> pq tas muteao
+[21Jul2025 19:09:00.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> me da paja hablar
+[21Jul2025 19:09:04.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> oskers
+[21Jul2025 19:09:20.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> ya te lo pusiste?
+[21Jul2025 19:09:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> yeh
+[21Jul2025 19:09:32.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> te disparo?
+[21Jul2025 19:09:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> yeh
+[21Jul2025 19:09:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> okers
+[21Jul2025 19:09:56.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> wth
+[21Jul2025 19:09:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> cuanto
+[21Jul2025 19:09:58.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> holy shit
+[21Jul2025 19:10:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> 1 y medio
+[21Jul2025 19:10:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> brah
+[21Jul2025 19:10:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> e velda eta mielda no vale la pena
+[21Jul2025 19:10:26.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> pero ta bueno el create
+[21Jul2025 19:10:30.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> yava
+[21Jul2025 19:10:32.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> toma mi armadura
+[21Jul2025 19:10:33.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> el q si vale la pena es el gatling
+[21Jul2025 19:10:42.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> te disparare con esto
+[21Jul2025 19:10:45.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> oskers
+[21Jul2025 19:11:06.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> te voy a disparar una rafaga de 3 balas
+[21Jul2025 19:11:12.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> me dices cuantos coras te quita
+[21Jul2025 19:11:14.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> oskers
+[21Jul2025 19:11:19.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> medio xd
+[21Jul2025 19:11:20.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> how many?
+[21Jul2025 19:11:23.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> a
+[21Jul2025 19:11:25.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> medio cora?
+[21Jul2025 19:11:34.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> realmente 1 cora
+[21Jul2025 19:11:38.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> pero se me curo
+[21Jul2025 19:11:39.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> a ver y cuanto esto?
+[21Jul2025 19:11:45.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Darkiumoun> cuanto?
+[21Jul2025 19:11:52.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsFiero> quede a 2 coras
