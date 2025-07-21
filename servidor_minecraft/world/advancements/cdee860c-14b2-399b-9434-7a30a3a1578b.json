@@ -67,7 +67,8 @@
       "glowing_grotto": "2025-07-18 02:08:03 +0000",
       "undergrowth": "2025-07-19 22:06:52 +0000",
       "rainforest": "2025-07-17 23:51:08 +0000",
-      "crag": "2025-07-18 00:33:24 +0000"
+      "crag": "2025-07-18 00:33:24 +0000",
+      "ominous_woods": "2025-07-21 22:11:45 +0000"
     },
     "done": false
   },
@@ -5310,57 +5311,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-21 21:25:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2025-07-21 21:29:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-07-21 21:25:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-21 21:36:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-21 21:25:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
-    "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-07-21 21:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-07-21 21:25:01 +0000"
-    },
-    "done": true
-  },
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-07-21 21:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_exposed_cut_copper": "2025-07-21 21:25:09 +0000"
     },
     "done": true
   },
@@ -5370,9 +5323,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 21:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-21 21:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-21 21:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-07-21 21:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-07-21 21:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-07-21 21:25:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-07-21 21:25:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-07-21 21:29:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-07-21 21:36:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-07-21 21:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-21 22:05:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-07-21 22:13:27 +0000"
     },
     "done": true
   },
