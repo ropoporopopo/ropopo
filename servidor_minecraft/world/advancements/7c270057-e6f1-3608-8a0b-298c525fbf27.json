@@ -6582,27 +6582,21 @@
     },
     "done": true
   },
+  "cgs:recipes/misc/lead_block_from_lead_ingot": {
+    "criteria": {
+      "has_lead_ingot": "2025-07-21 18:35:52 +0000"
+    },
+    "done": true
+  },
   "cgs:recipes/misc/lead_ingot_from_lead_nugget": {
     "criteria": {
       "has_lead_nugget": "2025-07-21 18:36:54 +0000"
     },
     "done": true
   },
-  "create:deployer": {
-    "criteria": {
-      "0": "2025-07-21 18:44:13 +0000"
-    },
-    "done": true
-  },
   "cgs:recipes/misc/stock": {
     "criteria": {
       "has_lead_nugget": "2025-07-21 18:36:54 +0000"
-    },
-    "done": true
-  },
-  "cgs:recipes/misc/lead_block_from_lead_ingot": {
-    "criteria": {
-      "has_lead_ingot": "2025-07-21 18:35:52 +0000"
     },
     "done": true
   },
@@ -6621,6 +6615,12 @@
   "cgs:recipes/misc/ball": {
     "criteria": {
       "has_lead_nugget": "2025-07-21 18:36:54 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-07-21 18:44:13 +0000"
     },
     "done": true
   },
