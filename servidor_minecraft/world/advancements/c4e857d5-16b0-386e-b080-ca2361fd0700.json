@@ -7961,5 +7961,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
+    "criteria": {
+      "has_dragonscale_silver": "2025-07-21 17:42:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-07-21 17:42:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
