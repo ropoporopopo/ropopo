@@ -7949,5 +7949,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-07-21 16:30:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-07-21 16:31:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
