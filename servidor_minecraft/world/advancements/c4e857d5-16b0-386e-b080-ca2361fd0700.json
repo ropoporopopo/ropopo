@@ -7979,9 +7979,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-07-21 18:31:51 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_strange_scroll": {
     "criteria": {
       "has_strange_scroll": "2025-07-21 18:26:43 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-07-21 18:31:51 +0000"
     },
     "done": true
   },
