@@ -11465,3 +11465,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createo
 [21Jul2025 22:12:56.481] [Server thread/INFO] [tombstone/]: The player Cars0325 has successfully been saved
 [21Jul2025 22:12:56.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6788ms or 135 ticks behind
 [21Jul2025 22:13:27.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 has made the advancement [Clash of the Titans]
+[21Jul2025 22:19:07.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cars0325 lost connection: Disconnected
+[21Jul2025 22:19:07.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cars0325 left the game
+[21Jul2025 22:19:07.470] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Cars0325[cdee860c-14b2-399b-9434-7a30a3a1578b]
+[21Jul2025 22:20:40.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty was shot by Skeleton
+[21Jul2025 22:20:40.368] [Server thread/INFO] [tombstone/]: The player Color_duty has successfully been saved
+[21Jul2025 22:25:50.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elCebollita3797 lost connection: Disconnected
+[21Jul2025 22:25:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elCebollita3797 left the game
+[21Jul2025 22:25:50.403] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elCebollita3797[fa0905fc-a62a-3107-a593-36ca7c564a45]
+[21Jul2025 22:25:50.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Color_duty lost connection: Disconnected
+[21Jul2025 22:25:50.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Color_duty left the game
+[21Jul2025 22:25:50.455] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Color_duty[65283ae9-2d8c-306b-ace2-be67c141c444]

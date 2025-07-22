@@ -200,6 +200,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-07-17 21:39:40 +0000",
+      "minecraft:cherry_grove": "2025-07-21 22:18:14 +0000",
+      "minecraft:windswept_hills": "2025-07-21 22:18:54 +0000",
       "minecraft:beach": "2025-07-17 21:33:31 +0000",
       "minecraft:lukewarm_ocean": "2025-07-17 21:35:28 +0000",
       "minecraft:river": "2025-07-17 20:39:39 +0000",
@@ -3285,6 +3287,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-21 21:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-21 22:18:25 +0000"
     },
     "done": true
   },
